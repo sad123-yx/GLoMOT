@@ -1,0 +1,7 @@
+fast reid model
+
+The model is named：
+
+dancetrack_sbs_S50.pth
+
+mot17_sbs_S50.pth

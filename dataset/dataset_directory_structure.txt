@@ -1,0 +1,37 @@
+dataset
+        |_____________MOT17
+        |                         |_______train
+        |			     |_______test
+        |                          |_______val
+        |				         |_____	MOT17-XX-FRCNN-N-2
+        |				         |_____  MOT17-XX-FRCNN-N-5
+        |				         |_____  MOT17-XX-FRCNN-N-10
+        |				                                       |___________________ det (folder)
+        |							          |___________________ gt (folder)
+        |								|___________________ img1(folder)
+        |								|____________________processed_data (folder)
+        |								|____________________ seqinfo.ini
+        |
+        |_____________DanceTrack
+        |				|______train
+        |				|______val
+        |				|______test
+        |				|______val_lfr
+        |					    |___dancetrack00XX-N-2
+        |					    |___dancetrack00XX-N-5
+        |					    |___dancetrack00XX-N-10
+        |							    |___________________ det (folder)
+        |							    |___________________ gt (folder)
+        |						              |___________________ img1(folder)
+        |							    |____________________processed_data (folder)
+        |							    |____________________ seqinfo.ini
+        |
+        |————— SportsMOT
+        |
+        |
+        |
+        |————— MOT20
+        |
+        |
+        |
+        |————— Visdrone-MOT
