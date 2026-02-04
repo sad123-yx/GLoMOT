@@ -27,13 +27,6 @@ pip3 install -r requirements.txt
 |	     |--  dancetrack00XX-N-2
 |	     |--  dancetrack00XX-N-5
 |	     |--  dancetrack00XX-N-10
-|-- SportsMOT/
-|	|--  train/
-|	|--  val/
-|	|--  test/
-|-- MOT20
-|	|--  train/
-|	|--  test/
 |-- Visdrone-MOT
 	|--  train
 	|--  val
